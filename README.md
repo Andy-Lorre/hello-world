@@ -1,4 +1,4 @@
 # hello-world
 The first repository
 
-test read
+read edit hello world
